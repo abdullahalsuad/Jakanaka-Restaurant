@@ -10,6 +10,4 @@ $(window).scroll(function() {
     });
   }); 
 
-
-  /* team slider  */
  
