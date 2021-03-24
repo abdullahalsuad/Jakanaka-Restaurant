@@ -56,9 +56,12 @@
   /* Style the buttons */
   .btn:hover {
       background-color: rgba(0, 255, 255, 0.26);
-    /* background-color: rgb(10, 233, 177); */
+
   }
   .btn.active {
     background-color: rgb(255, 121, 11);
     color: white;
+  }
+  .column .content button:hover{
+    background-color: rgb(10, 233, 177);
   }
