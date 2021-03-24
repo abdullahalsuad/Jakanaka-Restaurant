@@ -28,11 +28,14 @@ html
 /* NAV END SECTION*/
 
 /* START WELCOME SECTION */
-#carouselExampleIndicators{    
-  height: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+.buy-now-button{
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  padding: 9px 10px;
+  border: none;
+  cursor: pointer;
 }
 
 
